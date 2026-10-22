@@ -1,0 +1,5 @@
+P: exact Sturm chain = [['-18', '-1', '5', '1'], ['-1', '10', '3'], ['157/9', '56/9'], ['17109/3136']]
+P: V(-infinity)=3; V(+infinity)=0; distinct real roots=3
+R: exact Sturm chain = [['-28', '-6', '4', '1'], ['-6', '8', '3'], ['76/3', '68/9'], ['-261/289']]
+R: V(-infinity)=2; V(+infinity)=1; distinct real roots=1
+PASS: both exact rational Sturm certificates and squarefreeness

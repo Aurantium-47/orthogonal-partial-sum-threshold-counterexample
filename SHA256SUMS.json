@@ -1,0 +1,66 @@
+{
+  "algorithm": "SHA-256",
+  "scope": "All files in PUBLIC_FILES.txt except this manifest, whose self-hash is excluded. Hashes verify identity only, not mathematical correctness.",
+  "files": {
+    "PUBLIC_FILES.txt": {
+      "bytes": 286,
+      "sha256": "f38a3ed7b6f44e6d1a1c1948e0b09a9f337f02201371cbafb48f02d0843646ea"
+    },
+    "README.md": {
+      "bytes": 3588,
+      "sha256": "ac19e75dfedcab685d717dc79b3a3bad9f4c864f2a13791489a1e2f50a6d3e67"
+    },
+    "README.zh.md": {
+      "bytes": 3504,
+      "sha256": "7bb17722aec361710d006a56fbe16b16186a939935c31ea0936ca728cdcc0ab3"
+    },
+    "REFERENCES.md": {
+      "bytes": 2732,
+      "sha256": "0efa6b97a61e2f6726514b6142d12c0437997238f5b93430d6a4b16fdbc83855"
+    },
+    "REPRODUCIBILITY.md": {
+      "bytes": 2847,
+      "sha256": "8b8e8c4c98f773ab9ce2c02c6a3c57cbebf77d8762fbeba11519f4e858f88e91"
+    },
+    "RIGHTS.md": {
+      "bytes": 1248,
+      "sha256": "7ea858e22cf5d67fc270705726cf164cddb00d190b9e7bcf48c5b7ec4ca62cb6"
+    },
+    "check_package.py": {
+      "bytes": 1367,
+      "sha256": "191cb48a61cd74fe5eb55f54e75d62e9ce717f816d3bc5ba30e5aa4284e88a35"
+    },
+    "counterexample.md": {
+      "bytes": 7346,
+      "sha256": "d20d535773275d5c8d915830dfdffc4c7e6bbf75a35ab9d47f18d65bba56f845"
+    },
+    "independent_review.md": {
+      "bytes": 7431,
+      "sha256": "160940d86556f6cf081eacb2a6ee5df5535abdbf7f0b022fceed83cd7a7540b0"
+    },
+    "literature_status.md": {
+      "bytes": 2651,
+      "sha256": "acfec96d7780aabb97ca071df6b0eb437da48fc8ea9227b6807f71a6d9c4594f"
+    },
+    "logs/sturm_fraction.txt": {
+      "bytes": 380,
+      "sha256": "cafc4ebd21fc0da81cab4e057ffd717f8a7b776c869588da03ea69a9c4f322c3"
+    },
+    "logs/symbolic.txt": {
+      "bytes": 244,
+      "sha256": "56fb434f5baeae8c6dadb5f4452df2adcf9a9c751bfd10f25412e117ed569fbd"
+    },
+    "requirements.txt": {
+      "bytes": 14,
+      "sha256": "25f9f1fb1988b230147a1d3092d34e09c069eb7a6c6d6df46b3973b9f2d36efc"
+    },
+    "verify_counterexample.py": {
+      "bytes": 1336,
+      "sha256": "761441d397c941483e5fabeb123f0faeb8a6c96fc718f31166e353e9adaea744"
+    },
+    "verify_sturm_fraction.py": {
+      "bytes": 2252,
+      "sha256": "39d2007de1f0bb0d9d3282af79c302b15e430c025142e474298b62f881fc675f"
+    }
+  }
+}
